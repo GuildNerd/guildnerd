@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Luiz Bitencourt</h1>
+<h3 align="center">Front-end developer and UI/UX designer</h3>
+
+- 🔭 I’m currently studying at **PUC Minas University**
+
+- 🌱 I’m currently learning **React and Node.JS**
+
+- 📫 How to reach me **luizarthur.lp@gmail.com**
+
+- ⚡ Fun fact **I always see the cup half empty, if the other half is beer**
+
+- 😄 Pronouns: He/Him, Ele/Dele
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luiz-arthur-bitencourt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-arthur-bitencourt" height="30" width="40" /></a>
@@ -18,6 +31,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
