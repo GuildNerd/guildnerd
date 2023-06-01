@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Bitencourt</h1>
-<h3 align="center">Front-end developer and UI/UX designer</h3>
+<h3 align="center">Full-stack developer and UI/UX designer</h3>
 
 - 🔭 I’m currently studying at **PUC Minas University**
 
