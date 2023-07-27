@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luiz Bitencourt</h1>
 <h3 align="center">Full-stack developer and UI/UX designer</h3>
 
-- 🔭 I’m currently studying at **PUC Minas University**
+- 🔭 I’m currently studying in the eighth and last period of Information Systems at **PUC Minas University**
 
 - 🌱 I’m currently learning **React and Node.JS**
 
-- 📫 How to reach me **luizarthur.lp@gmail.com**
-
-- ⚡ Fun fact **I always see the cup half empty, if the other half is beer**
+- 📫 How to reach me: **luizarthur.lp@gmail.com** or the social media below
 
 - 😄 Pronouns: He/Him, Ele/Dele
 
