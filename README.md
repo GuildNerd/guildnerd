@@ -80,8 +80,3 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a>
 </p>
-
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guildnerd&show_icons=true&theme=dracula&locale=en" alt="guildnerd" />
-</p>
